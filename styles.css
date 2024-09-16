@@ -1,1 +1,38 @@
 /*  your css code here. If applicable */
+.card-container{
+	background-color:lightgray;
+	width:250px;
+	padding:50px;
+	box-shadow:1px 1px;
+	align-items:center;
+	text-align:center;
+	margin:100px;
+	
+}
+
+p2{
+	padding:0px;
+	font-size:30px;
+	margin: 10px 20px 20px 30x;
+}
+
+p{
+font-size:30px;
+	
+}
+
+h1{
+	padding:0px;
+	font-size:40px
+}
+
+button{
+	background-color:tomato;
+	color:white;
+	padding:10px 10px;
+	border:none;
+	border-radius:20px;
+	cursor:pointer;
+	font-size:20px
+	
+}
